@@ -77,3 +77,7 @@ This project implements a RESTful API for a basic FinTech application. It allows
 - **Response:**
   - **200 OK:** Transaction deleted successfully
   - **404 Not Found:** Transaction not found
+
+## GitHub Repository
+- [Link to GitHub Repository](https://github.com/AzizTalantbekuulu/Fintech-api/tree/master)
+- [Link to deployment](https://fintech-api-0vpy.onrender.com)
